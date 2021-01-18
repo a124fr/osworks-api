@@ -1,0 +1,1 @@
+alter table ordem_servico add column preco bigint not null
